@@ -12,7 +12,7 @@ import java.nio.file.Paths;
 import java.text.NumberFormat;
 import java.util.List;
 import java.util.Scanner;
-import movietracer.Movie;
+import movieTracker.Movie;
 
 /**
  * A CMD line search for movies 

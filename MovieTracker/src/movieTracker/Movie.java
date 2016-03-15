@@ -1,7 +1,7 @@
 /*
  *
  */
-package movietracer;
+package movieTracker;
 
 /**
  *
